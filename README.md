@@ -62,7 +62,18 @@
 ![Linux](http://img.shields.io/badge/-Linux-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 
 ---
+## 🗂️ Highlight Projects
 
+<a href="https://github.com/Zhenye-Na/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whacko23&repo=Fructus&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/Zhenye-Na/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whacko23&repo=Fructus&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
+</a>
+
+
+---
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whacko23&layout=compact&text_color=0&bg_color=ffffff)
