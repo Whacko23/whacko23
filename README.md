@@ -72,6 +72,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whacko23&repo=Fructus&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
 </a>
 
+---
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=whacko23&theme=nord&column=7)
 
 ---
 
