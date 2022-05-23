@@ -75,7 +75,7 @@
 ---
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=whacko23&theme=merko&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=whacko23&theme=juicyfresh&column=7)
 
 ---
 
