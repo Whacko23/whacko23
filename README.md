@@ -5,7 +5,7 @@
 
 
 
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=whacko23&theme=dark&count_private=true&include_all_commits=true&show_icons=true">](https://metrics.lecoq.io/whacko23#gh-dark-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=whacko23&theme=cobalt&count_private=true&include_all_commits=true&show_icons=true">](https://metrics.lecoq.io/whacko23#gh-dark-mode-only)
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=whacko23&count_private=true&include_all_commits=true&show_icons=true">](https://metrics.lecoq.io/whacko23#gh-light-mode-only)
 
 
@@ -81,5 +81,5 @@
 
 ## 👨‍💻 Most Used Language
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whacko23&layout=compact&text_color=0&bg_color=ffffff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whacko23&layout=compact&text_color=0&theme=cobalt)
 
