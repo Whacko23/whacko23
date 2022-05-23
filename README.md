@@ -65,7 +65,7 @@
 ## 🗂️ Highlight Projects
 
 <a href="https://github.com/Whacko23/Fructus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whacko23&repo=Fructus&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=whacko23&repo=Fructus&show_icons=true&line_height=27&theme=radical" alt="DA-RNN" />
 </a>
 
 <a href="https://github.com/Whacko23/Fructus">
