@@ -6,7 +6,7 @@
 
 
 [<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=whacko23&theme=aura&count_private=true&include_all_commits=true&show_icons=true&hide=contribs">](https://metrics.lecoq.io/whacko23#gh-dark-mode-only)
-[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=whacko23&count_private=true&include_all_commits=true&show_icons=true&hide=contribs">](https://metrics.lecoq.io/whacko23#gh-light-mode-only)
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=whacko23&count_private=true&include_all_commits=true&show_icons=true&hide=contribs&theme=vue">](https://metrics.lecoq.io/whacko23#gh-light-mode-only)
 
 
 ✨ **Rajanish Karki** ✨ is a *superfast learner*. He loves coding vehemently. 
@@ -75,7 +75,7 @@
 ---
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=whacko23&theme=nord&column=7)
+![trophy](https://github-profile-trophy.vercel.app/?username=whacko23&theme=aura&column=7)
 
 ---
 
