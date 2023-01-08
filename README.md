@@ -30,7 +30,7 @@
 - 🌱 I’m currently learning Data Science, Network Forensics, Operating Systems and AWS
 - 👯 I’m looking to collaborate on any related topic that i'm currently learning
 - 💬 Ask me about Data structures and Algorighms, System Design, and Databases
-- 🥅 2022 Goals: Learn more algorithms and contribute to open source
+- 🥅 2023 Goals: Learn more algorithms and contribute to open source
 - ⚡ Fun fact: I maintain my own server (HP Proliant). I have self-hosted VSCode on that server, and I can code remotely on that server; even with devices like iPhone, and iPad.
 
 <br/>
